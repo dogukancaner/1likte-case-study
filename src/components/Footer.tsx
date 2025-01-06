@@ -50,7 +50,7 @@ export default function Footer() {
         <Link href="https://linkedin.com" target="_blank">
           <div className="cursor-pointer text-gray-400 hover:text-gray-600 transition-colors">
             <Image
-              src="/icons/linkedin.svg"
+              src="/icons/LinkedIn.svg"
               alt="LinkedIn"
               width={20}
               height={20}
